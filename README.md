@@ -6,8 +6,9 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+git clone https://github.com/Harshitnitw/Source-Code-Analysis-Generative-AI
 ```
+
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
