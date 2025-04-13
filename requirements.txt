@@ -1,0 +1,7 @@
+langchain
+langchain_mistralai
+chromadb
+flask
+Gitpython
+python-dotenv
+langchain-community
